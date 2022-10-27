@@ -1,0 +1,18 @@
+.cards {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+
+.card {
+  width: 200px;
+  padding: 20px;
+  border: 1px solid #DEDEDE;
+  border-radius: 2px;
+  box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.2);
+}
+
+.card i {
+  font-size: 110px;
+  color: #99582A;
+}
